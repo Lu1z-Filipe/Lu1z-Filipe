@@ -32,9 +32,9 @@ Atuo com qualidade de software desde 2021: testes funcionais, exploratórios, re
 | Projeto | O que demonstra | Área |
 |---|---|---|
 | [**luiz-filipe-portfolio**](https://github.com/Lu1z-Filipe/luiz-filipe-portfolio) | Portfólio publicado via GitHub Pages, com CI (lint, varredura de segredos, testes) e deploy condicionado à aprovação de todos os checks | Web · CI/CD |
-| [`projects/api-tests`](https://github.com/Lu1z-Filipe/luiz-filipe-portfolio/tree/main/projects/api-tests) | 29 testes automatizados de API REST | API |
-| [`projects/web-tests`](https://github.com/Lu1z-Filipe/luiz-filipe-portfolio/tree/main/projects/web-tests) | 28 execuções com Playwright em desktop e mobile | Web E2E |
-| [`projects/sql-validation`](https://github.com/Lu1z-Filipe/luiz-filipe-portfolio/tree/main/projects/sql-validation) | 18 testes de validação de dados e integridade com SQL | Banco de dados |
+| [**qa-api-tests**](https://github.com/Lu1z-Filipe/qa-api-tests) | 29 testes automatizados de API REST | API |
+| [**qa-web-tests-playwright**](https://github.com/Lu1z-Filipe/qa-web-tests-playwright) | 28 execuções com Playwright em desktop e mobile | Web E2E |
+| [**qa-sql-data-validation**](https://github.com/Lu1z-Filipe/qa-sql-data-validation) | 18 testes de validação de dados e integridade com SQL | Banco de dados |
 
 > Projetos de estudo pessoal, construídos para praticar e demonstrar boas práticas de QA. Nenhum contém dados ou sistemas de clientes.
 
