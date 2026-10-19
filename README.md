@@ -25,7 +25,7 @@ Atuo com qualidade de software desde 2021: testes funcionais, exploratórios, re
 - 🗄️ **SQL/MySQL** para investigação de dados e checagem de consistência e integridade
 - 🤖 Automação web e **IA aplicada a QA** (geração de cenários, scripts e análise de resultados)
 - 👥 Experiência prévia em liderança de equipes de teste e de desenvolvimento
-- 🎓 Eng. de Computação (Anhanguera) · Pós-graduação em Engenharia de Software com ênfase em Qualidade e Teste (jan–jun/2026)
+- 🎓 Eng. de Computação (Anhanguera) · Pós-graduação em Engenharia de Software com ênfase em Qualidade e Teste (jan–jun/2026, concluída)
 
 ### Projetos em destaque
 
@@ -70,7 +70,7 @@ Atuo com qualidade de software desde 2021: testes funcionais, exploratórios, re
 
 ### Formação
 
-- **Pós-graduação** em Engenharia de Software com ênfase em Qualidade e Teste de Software — Anhanguera (jan–jun/2026)
+- **Pós-graduação** em Engenharia de Software com ênfase em Qualidade e Teste de Software — Anhanguera (jan–jun/2026, concluída)
 - **Bacharelado** em Engenharia de Computação — Anhanguera (2018–2022)
 - **Inglês** C1 / Avançado
 
